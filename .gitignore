@@ -1,0 +1,15 @@
+﻿# Ignore Visual Studio temporary files, build results, and
+# build logs.
+**/obj/
+**/bin/
+**/.vs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.sln.ide
